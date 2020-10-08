@@ -1,6 +1,4 @@
 # Image-Classification-in-the-Human-or-Horses-Dataset
-Image Classification in the human or horses dataset using image generator. 
-The dataset can be found in kaggle:
 The dataset:
 
 Horses or Humans is a dataset of 300×300 images. The set contains 500 rendered images of various species of horse in various poses in various locations. It also contains 527 rendered images of humans in various poses and locations. Emphasis has been taken to ensure diversity of humans, and to that end there are both men and women as well as Asian, Black, South Asian and Caucasians present in the training set. The validation set adds 6 different figures of different gender, race and pose to ensure breadth of data. The dataset can be found at this URL:  https://www.kaggle.com/sanikamal/horses-or-humans-dataset. 
