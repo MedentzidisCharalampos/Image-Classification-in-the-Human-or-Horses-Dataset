@@ -21,7 +21,9 @@ The architecture of the model:
 12. A Dense Layer with 512-units and Relu activation function
 13. A Dense Layer with 1-units and Sigmoid activation function
 
-We will train our model with the binary_crossentropy loss, because it's a binary classification problem and our final activation is a sigmoid. We will use the rmsprop optimizer with a learning rate of 0.001.  Using the RMSprop optimization algorithm is preferable to stochastic gradient descent (SGD), because RMSprop automates learning-rate tuning for us.
+We will train our model with the binary_crossentropy loss, because it's a binary classification problem and our final activation is a sigmoid.   
+We will use the rmsprop optimizer with a learning rate of 0.001.   
+Using the RMSprop optimization algorithm is preferable to stochastic gradient descent (SGD), because RMSprop automates learning-rate tuning for us.  
 
 Training:
 
